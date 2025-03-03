@@ -73,7 +73,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       width=80 
       src="https://avatars.githubusercontent.com/u/16731917?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspWagner Braga<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/wfbraga">
@@ -91,4 +91,5 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Wagner Braga](https://github.com/wfbraga)
+Créditos oa instrutor Felipe Aguiar, da DIO, de quem este projeto foi "forqueado".
