@@ -3,13 +3,13 @@
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  PROMPT  | Objetivo: Criar um episódio de podcast sobre IA chamado "Pod AI" usando as principais notícias da semana passada.
 Contexto: Este podcast tem dois apresentadores, especialistas em IA, e eles se revezam falando sobre as notícias da seguinte maneira: o apresentador A diz que escolheu a notícia X, lê a manchete e pergunta ao apresentador B o que ele está fazendo. O apresentador B dá sua opinião e o apresentador A encerra com um contraponto. O logotipo faz a mesma coisa com outras notícias e inverte os papéis.
 O anfitrião A é chamado Ian, gênero masculino
 O hospedeiro B é chamado de Aina, gênero feminino.
 Com base na descrição acima, foi criado um diálogo de aproximadamente 10 minutos com a interação desses 2 apresentadores falando sobre as notícias da semana passada.
+
+
 | RESULTADO | **Ian:** Olá, ouvintes do Pod AI! Bem-vindos a mais um episódio onde discutimos as principais notícias da semana no mundo da inteligência artificial. Eu sou o Ian, e estou aqui com minha coapresentadora, Aina. Tudo bem, Aina?
 
 **Aina:** Olá, Ian! Olá, ouvintes! Estou ótima e ansiosa para discutirmos as novidades desta semana.
